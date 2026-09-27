@@ -1,0 +1,15 @@
+{
+  "formatVersion": 1,
+  "mods": [
+    {
+      "id": "extended-cards",
+      "title": "Extended Cards",
+      "author": "ModAuthor",
+      "version": "1.0.0",
+      "description": "Adds new cards and options to the game.",
+      "categories": ["Content"],
+      "downloadURL": "https://example.com",
+      "repo": "https://github.com"
+    }
+  ]
+}
