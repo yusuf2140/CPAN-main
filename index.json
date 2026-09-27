@@ -1,15 +1,14 @@
-{
-  "formatVersion": 1,
-  "mods": [
-    {
-      "id": "extended-cards",
-      "title": "Extended Cards",
-      "author": "ModAuthor",
-      "version": "1.0.0",
-      "description": "Adds new cards and options to the game.",
-      "categories": ["Content"],
-      "downloadURL": "https://example.com",
-      "repo": "https://github.com"
-    }
-  ]
-}
+[
+  {
+    "id": "cool-weapon-mod",
+    "name": "Cool Weapon Mod",
+    "downloadUrl": "https://github.com/yusuf2140/CPAN-main/raw/mods/mods/cool-weapon.zip",
+    "sha256": "YOUR_SHA256_HASH_HERE"
+  },
+  {
+    "id": "super-map-pack",
+    "name": "Super Map Pack",
+    "downloadUrl": "https://github.com/yusuf2140/CPAN-main/raw/mods/mods/maps.zip",
+    "sha256": "YOUR_SHA256_HASH_HERE"
+  }
+]
