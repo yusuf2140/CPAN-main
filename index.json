@@ -1,0 +1,14 @@
+[
+  {
+    "id": "cool-weapon-mod",
+    "name": "Cool Weapon Mod",
+    "downloadUrl": "https://github.com/yusuf2140/CPAN-main/raw/mods/mods/cool-weapon.zip",
+    "sha256": "YOUR_SHA256_HASH_HERE"
+  },
+  {
+    "id": "super-map-pack",
+    "name": "Super Map Pack",
+    "downloadUrl": "https://github.com/yusuf2140/CPAN-main/raw/mods/mods/maps.zip",
+    "sha256": "YOUR_SHA256_HASH_HERE"
+  }
+]
